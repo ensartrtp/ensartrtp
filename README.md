@@ -14,7 +14,7 @@
 <p align="left">🚀 Interests: Game development and full-stack development.<br>
 💻 Technical Skills: C, Java, HTML, CSS, JavaScript.<br>
 🌱 Currently: Learning data structures and algorithms to strengthen my problem-solving skills.<br>
-📫 Bana ulaşın: ensarwet@gmail.com veya https://www.linkedin.com/in/ensar-tortop-6513b7343/</p>
+📫 Bana ulaşın: [ensarwet@gmail.com](mailto:ensarwet@gmail.com) veya https://www.linkedin.com/in/ensar-tortop-6513b7343/</p>
 
 ### 🛠️ Languages, Frameworks and Tools
 
