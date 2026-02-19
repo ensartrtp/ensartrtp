@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**ensartrtp/ensartrtp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Welcome to my Github Profile👋</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">Hello! I'm a 2nd-year Computer Engineering student at Bilecik Şeyh Edebali University.
+</p>
+
+###
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🚀 Interests: Game development and full-stack development.
+💻 Technical Skills: C, Java, HTML, CSS, JavaScript.
+🌱 Currently: Learning data structures and algorithms to strengthen my problem-solving skills.
+📫 Bana ulaşın: ensarwet@gmail.com veya https://www.linkedin.com/in/ensar-tortop-6513b7343/</p>
+
+### 🛠️ Languages, Frameworks and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,html,css&perline=5)](https://skillicons.dev)
+
