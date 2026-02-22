@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Hello! I'm a 2nd-year Computer Engineering student at Bilecik Şeyh Edebali University.
+<p align="left">  I'm a 2nd-year Computer Engineering student at Bilecik Şeyh Edebali University.
 </p>
 
 ###
