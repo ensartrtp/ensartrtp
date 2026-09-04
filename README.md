@@ -18,5 +18,5 @@
 
 ### 🛠️ Languages, Frameworks and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,js,html,css&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,c#,js,html,css&perline=5)](https://skillicons.dev)
 
